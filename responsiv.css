@@ -1,0 +1,14 @@
+@media (max-width: 550px) {
+  .wrapper {
+      min-width: 100vw;
+      max-height: 100vh;
+      padding: 10px;
+  }
+
+}
+
+@media (max-width: 480px){
+   .sliders {
+      grid-template-columns: 1fr;
+   }
+}
